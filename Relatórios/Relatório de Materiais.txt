@@ -1,0 +1,25 @@
+21:33:38 10/04/2022                                                          Resp.: valter
+
+
+| CÓDIGO |   TIPO   |                 DESCRIÇÃO                  | RET.  | IMPRE. | IMP.  | SALDO  |
++--------+----------+--------------------------------------------+-------+--------+-------+--------+
+| 152004 |  ESCALA  |                 ESCALA 72                  |   0   |   34   |  13   |   47   |
+| 152009 |  ESCALA  |              ESCALA 96 FM/BM               |  24   |  1577  |  76   |  1677  |
+| 152013 |  ESCALA  |              ESCALA 144 FM/BM              |   0   |  145   |   8   |  153   |
+| 152014 |  ESCALA  |            ESCALA 72 BK - 240º             |  48   |   65   |  108  |  221   |
+| 152019 |  ESCALA  |             ESCALA 96 BK -240º             |  107  |  295   |  40   |  442   |
+| 152020 |  ESCALA  |            ESCALA 144 BK- 240º             |   0   |   0    |   2   |   2    |
+| 152036 |  ESCALA  |       ESCALA 61X61 INDICADOR DE FASE       |   0   |   29   |  56   |   85   |
+| 152037 |  ESCALA  |                ESCALA 96 SF                |   3   |   72   |  30   |  105   |
+| 152040 |  ESCALA  | ESCALA 96 FLB (FM) - FORA DE USO (OBSOLETO |   0   |   0    |   0   |   0    |
+| 152043 |  ESCALA  |                ESCALA 96 VD                |  56   |  381   |  172  |  609   |
+| 152068 |  ESCALA  |    ESCALA 72 PI EM BRANCO - FORA DE USO    |  347  |  274   |  147  |  768   |
+| 152069 |  ESCALA  |    ESCALA 96 PI EM BRANCO - FORA DE USO    |  44   |  649   |  74   |  767   |
+| 152071 |  ESCALA  |         ESCALA 72 PC FM/BM INTERC.         | 4772  |  7381  |  364  | 12517  |
+| 152072 |  ESCALA  |         ESCALA 96 PC FM/BM INTERC.         | 5610  | 10906  |  220  | 16736  |
+| 152075 |  ESCALA  |                ESCALA 48 PC                |  129  |  501   |  78   |  708   |
+| 152076 |  ESCALA  |       ESCALA BRANCA HZ 72 PC INTERC.       |  11   |  335   |  150  |  496   |
+| 152077 |  ESCALA  |       ESCALA BRANCA HZ 96 PC INTERC.       |  196  |  335   |  200  |  731   |
+| 152078 |  ESCALA  |               ESCALA 144 PI                |   0   |   80   |   2   |   82   |
+| 152900 |  ESCALA  | ESCALA 96 WATT/VAR/COS/ (BOBINA IMPORTADA) |   0   |   0    |   0   |   0    |
+| 152910 |  ESCALA  |      ESCALA 96 HD (BOBINA IMPORTADA)       |   1   |   50   |  13   |   64   |

@@ -1,0 +1,31 @@
+22:45:33 09/04/2022                                                          Resp.: valter
+
+
+| CÓDIGO | MATERIAL |                                  DESCRIÇÃO                                   |
++--------+----------+------------------------------------------------------------------------------+
+| 302009 |  167184  |             Mult-k Grafic C/Memória 5Aca RS-485 Fonte Universal              |
+| 302011 |  167184  |                Mult-k Grafic S/Memória 5Aca RS-485 120/220Vca                |
+| 302014 |  167184  |                      Mult-k 5Aca RS-485 Fonte Univesal                       |
+| 302016 |  167184  |              Mult-k Plus C/Memória 5Aca RS-485 Fonte Universal               |
+| 302018 |  167182  |                 Mult-k C 5Aca RS-485 + Relês Fonte Universal                 |
+| 302028 |  167225  |              Mult-k 5Aca RS-485 Fonte Universal B. Olhal Tipo 2              |
+| 302047 |  167182  |            Mult-k Plus S/Memória 5Aca RS-485 + Pulsos 120/220Vca             |
+| 302048 |  167204  |      Mult-k Plus S/Memória 5Aca RS-485 Fonte Universal B. Olhal Tipo 1       |
+| 302049 |  167225  |      Mult-k Plus S/Memória 5Aca RS-485 Fonte Universal B. Olhal Tipo 2       |
+| 302052 |  167204  |      Mult-k Plus C/Memória 5Aca RS-485 Fonte Universal B. Olhal Tipo 1       |
+| 302057 |  167267  |    Mult-k Grafic C/Memória 5Aca Ethernet Fonte Universal B. Olhal Tipo 4     |
+| 302059 |  167267  |    Mult-k Grafic S/Memória 5Aca Ethernet Fonte Universal B. Olhal Tipo 4     |
+| 302070 |  167262  |               Mult-K NG 5Aca RS-485 + Ethernet Fonte Universal               |
+| 302071 |  167204  |      Mult-k Plus S/Memória 10Aca RS-485 Fonte Universal B. Olhal Tipo 1      |
+| 302091 |  167258  |       Mult-k NG 5Aca RS-485 + Ethernet Fonte Universal B. Olhal Tipo 3       |
+| 302410 |  167182  |                 Mult-k 5Aca RS-485 + Pulsos Fonte Universal                  |
+| 302660 |  167247  |            Mult-k Grafic C/Memória 5Aca Ethernet Fonte Universal             |
+| 302905 |  167184  |                        Mult-k 5Aca RS-485 120/220Vca                         |
+| 302922 |  167184  |                 Mult-k Plus C/Memória 5Aca RS-485 120/220Vca                 |
+| 302945 |  167184  |             Mult-k Grafic C/Memória 5Aca RS-485 Fonte Universal              |
+| 302950 |  167184  |                    Mult-k NG 5Aca RS-485 Fonte Universal                     |
+| 302951 |  167262  |               Mult-k NG 5Aca RS-485 + Ethernet Fonte Universal               |
+| 302971 |  167247  |            Mult-k Grafic S/memória 5Aca Ethernet Fonte Universal             |
+| 302974 |  167249  |              Mult-k Plus C/Memória 5Aca RS-485 120/220Vca E-13               |
+| 302977 |  167182  |                   Mult-k C 5Aca RS-485 + Relés 120/220Vca                    |
+| 302979 |  167225  |            Mult-k NG 5Aca RS-485 Fonte Universal B. Olhal Tipo 2             |

@@ -1,0 +1,453 @@
+21:19:44 25/03/2022                                                          Resp.: valter
+                  Período: 25/03/2018 á 25/03/2022
+
+| CÓDIGO |         DESCRIÇÃO          |    TIPO    |   ORIGEM   |  DESTINO   |  QTD   |    DATA    |
++--------+----------------------------+------------+------------+------------+--------+------------+
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   9    | 2020-08-10 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   8    | 2020-08-10 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   80   | 2020-08-10 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   80   | 2020-08-10 |
+| 152078 |       ESCALA 144 PI        |   Saída    | Retrabalho |  Externo   |   47   | 2020-08-11 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   32   | 2020-08-11 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   8    | 2020-08-11 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C | Transferên |  Imprimir  |  Impresso  |   40   | 2020-08-11 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C | Transferên |  Imprimir  |  Impresso  |   8    | 2020-08-11 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C | Transferên |  Imprimir  |  Impresso  |   2    | 2020-08-11 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-11 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   6    | 2020-08-11 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   9    | 2020-08-11 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   41   | 2020-08-11 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-11 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   10   | 2020-08-11 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   9    | 2020-08-11 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-11 |
+| 167154 | PAINEL TRASEIRO MKM-D (SIS | Transferên |  Imprimir  |  Impresso  |   2    | 2020-08-12 |
+| 169051 |    VISOR INJETADO DG-96    | Transferên |  Imprimir  |  Impresso  |   20   | 2020-08-12 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   10   | 2020-08-12 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   63   | 2020-08-12 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   6    | 2020-08-12 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   8    | 2020-08-12 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   20   | 2020-08-12 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-12 |
+| 152077 | ESCALA BRANCA HZ 96 PC INT |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-12 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Imprimir  |  200   | 2020-08-13 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Imprimir  |  200   | 2020-08-13 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |  180   | 2020-08-13 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   20   | 2020-08-13 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |  173   | 2020-08-13 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   6    | 2020-08-13 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   25   | 2020-08-13 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   11   | 2020-08-13 |
+| 152068 | ESCALA 72 PI EM BRANCO - F |   Saída    |  Impresso  |  Externo   |   3    | 2020-08-13 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   3    | 2020-08-13 |
+| 169051 |    VISOR INJETADO DG-96    |   Saída    |  Impresso  |  Externo   |   4    | 2020-08-13 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   3    | 2020-08-13 |
+| 151084 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-13 |
+| 151098 | PAINEL FRONTAL - COMBINADO |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-13 |
+| 167154 | PAINEL TRASEIRO MKM-D (SIS |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-13 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   85   | 2020-08-17 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   9    | 2020-08-17 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   6    | 2020-08-17 |
+| 169053 |    VISOR INJETADO DG-48    |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-17 |
+| 152068 | ESCALA 72 PI EM BRANCO - F |   Saída    |  Impresso  |  Externo   |   3    | 2020-08-17 |
+| 167258 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   4    | 2020-08-17 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  | Retrabalho |   12   | 2020-08-18 |
+| 152910 | ESCALA 96 HD (BOBINA IMPOR | Transferên |  Imprimir  |  Impresso  |   8    | 2020-08-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   11   | 2020-08-18 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  | Transferên |  Imprimir  |  Impresso  |   32   | 2020-08-18 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   16   | 2020-08-18 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   32   | 2020-08-18 |
+| 167258 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-18 |
+| 169051 |    VISOR INJETADO DG-96    |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-18 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   6    | 2020-08-18 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-18 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   3    | 2020-08-18 |
+| 152037 |        ESCALA 96 SF        |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   14   | 2020-08-18 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  | Transferên |  Imprimir  |  Impresso  |   8    | 2020-08-19 |
+| 152068 | ESCALA 72 PI EM BRANCO - F |  Entrada   |  Externo   |  Impresso  |   6    | 2020-08-19 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   19   | 2020-08-19 |
+| 151084 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-19 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   10   | 2020-08-19 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   3    | 2020-08-19 |
+| 152910 | ESCALA 96 HD (BOBINA IMPOR |   Saída    |  Impresso  |  Externo   |   4    | 2020-08-19 |
+| 152043 |        ESCALA 96 VD        |   Saída    |  Impresso  |  Externo   |   4    | 2020-08-19 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-19 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   13   | 2020-08-19 |
+| 151168 | PAINEL TRANSD. TRIPLO CORR |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-19 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   30   | 2020-08-20 |
+| 152075 |        ESCALA 48 PC        |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-20 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   27   | 2020-08-20 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   14   | 2020-08-20 |
+| 169051 |    VISOR INJETADO DG-96    |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-20 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-20 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   6    | 2020-08-20 |
+| 152078 |       ESCALA 144 PI        |  Entrada   |  Externo   |  Imprimir  |   2    | 2020-08-24 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  | Transferên |  Imprimir  |  Impresso  |   15   | 2020-08-24 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   74   | 2020-08-24 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   11   | 2020-08-24 |
+| 152077 | ESCALA BRANCA HZ 96 PC INT |  Entrada   |  Externo   |  Impresso  |   2    | 2020-08-24 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   6    | 2020-08-24 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   17   | 2020-08-24 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-24 |
+| 151084 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-24 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   14   | 2020-08-24 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   6    | 2020-08-24 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-24 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-24 |
+| 169051 |    VISOR INJETADO DG-96    |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-24 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   10   | 2020-08-25 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   14   | 2020-08-25 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-25 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   4    | 2020-08-25 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   7    | 2020-08-25 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   35   | 2020-08-25 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   10   | 2020-08-25 |
+| 152037 |        ESCALA 96 SF        |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-25 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ | Transferên |  Imprimir  |  Impresso  |   10   | 2020-08-26 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ | Transferên |  Imprimir  |  Impresso  |   16   | 2020-08-26 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   6    | 2020-08-26 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   6    | 2020-08-26 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-26 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   2    | 2020-08-26 |
+| 151084 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-26 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   4    | 2020-08-27 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   64   | 2020-08-27 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   6    | 2020-08-27 |
+| 167247 | PAINEL TRASEIRO BORNE FENI |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-27 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   4    | 2020-08-27 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   4    | 2020-08-27 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   5    | 2020-08-27 |
+| 151168 | PAINEL TRANSD. TRIPLO CORR |   Saída    |  Impresso  |  Externo   |   4    | 2020-08-27 |
+| 151090 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-27 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   11   | 2020-08-31 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   8    | 2020-08-31 |
+| 167258 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   8    | 2020-08-31 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-31 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-31 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   1    | 2020-08-31 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  | Transferên |  Imprimir  |  Impresso  |   60   | 2020-09-01 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C | Transferên |  Imprimir  |  Impresso  |   25   | 2020-09-01 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Imprimir  |   11   | 2020-09-01 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |  Entrada   |  Externo   |  Impresso  |   1    | 2020-09-01 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Impresso  |   7    | 2020-09-01 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Impresso  |   1    | 2020-09-01 |
+| 167262 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Impresso  |   1    | 2020-09-01 |
+| 167225 | PAINEL TRASEIRO B. OLHAL T |  Entrada   |  Externo   |  Impresso  |   1    | 2020-09-01 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |  Entrada   |  Externo   |  Impresso  |   4    | 2020-09-01 |
+| 167204 | PAINEL TRASEIRO B. OLHAL T | Transferên |  Imprimir  |  Impresso  |   4    | 2020-09-01 |
+| 151084 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-01 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   26   | 2020-09-01 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   8    | 2020-09-01 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   14   | 2020-09-01 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   11   | 2020-09-01 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-01 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   30   | 2020-09-02 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |  110   | 2020-09-02 |
+| 152077 | ESCALA BRANCA HZ 96 PC INT |  Entrada   |  Externo   |  Impresso  |   4    | 2020-09-02 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   | Retrabalho |   53   | 2020-09-02 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   | Retrabalho |  108   | 2020-09-02 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   21   | 2020-09-02 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Imprimir  |  200   | 2020-09-02 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Imprimir  |  200   | 2020-09-02 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   32   | 2020-09-02 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   9    | 2020-09-02 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   19   | 2020-09-02 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-02 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  | Retrabalho |   24   | 2020-09-03 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   8    | 2020-09-03 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   81   | 2020-09-03 |
+| 151168 | PAINEL TRANSD. TRIPLO CORR |   Saída    |  Impresso  |  Externo   |   3    | 2020-09-03 |
+| 151165 | PAINEL TRANSD. FREQUENCIA  |   Saída    |  Impresso  |  Externo   |   3    | 2020-09-03 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   3    | 2020-09-03 |
+| 167204 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-03 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-03 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   34   | 2020-09-03 |
+| 151168 | PAINEL TRANSD. TRIPLO CORR | Transferên |  Imprimir  |  Impresso  |   7    | 2020-09-03 |
+| 151088 | PAINEL FRONTAL POT. ATIVA/ | Transferên |  Imprimir  |  Impresso  |   7    | 2020-09-03 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   15   | 2020-09-04 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |  Entrada   |  Externo   |  Imprimir  |  200   | 2020-09-04 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |  Entrada   |  Externo   |  Imprimir  |  200   | 2020-09-04 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ | Transferên |  Imprimir  |  Impresso  |   42   | 2020-09-04 |
+| 151168 | PAINEL TRANSD. TRIPLO CORR |   Saída    |  Impresso  |  Externo   |   3    | 2020-09-04 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   8    | 2020-09-04 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   9    | 2020-09-04 |
+| 151088 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   3    | 2020-09-04 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   26   | 2020-09-04 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-04 |
+| 167204 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   10   | 2020-09-08 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   22   | 2020-09-08 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR | Transferên |  Imprimir  |  Impresso  |   27   | 2020-09-08 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Imprimir  |   20   | 2020-09-08 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR | Transferên |  Imprimir  |  Impresso  |   10   | 2020-09-08 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Impresso  |   8    | 2020-09-08 |
+| 167225 | PAINEL TRASEIRO B. OLHAL T |  Entrada   |  Externo   |  Impresso  |   1    | 2020-09-08 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-08 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-08 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   8    | 2020-09-08 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   22   | 2020-09-08 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-08 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   3    | 2020-09-09 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  | Retrabalho |   6    | 2020-09-09 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   55   | 2020-09-09 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-09 |
+| 167225 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-09 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-09 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   6    | 2020-09-09 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |  110   | 2020-09-10 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   28   | 2020-09-10 |
+| 152077 | ESCALA BRANCA HZ 96 PC INT |  Entrada   |  Externo   |  Impresso  |   1    | 2020-09-10 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-10 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   29   | 2020-09-10 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   8    | 2020-09-10 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-10 |
+| 151084 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-10 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   37   | 2020-09-11 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   6    | 2020-09-11 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-11 |
+| 152076 | ESCALA BRANCA HZ 72 PC INT |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-11 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   15   | 2020-09-14 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-14 |
+| 152037 |        ESCALA 96 SF        |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-14 |
+| 167247 | PAINEL TRASEIRO BORNE FENI |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-14 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   3    | 2020-09-14 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-14 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-14 |
+| 151090 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-14 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-14 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  | Transferên |  Imprimir  |  Impresso  |   10   | 2020-09-15 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ | Transferên |  Imprimir  |  Impresso  |   20   | 2020-09-15 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-15 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   7    | 2020-09-15 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   17   | 2020-09-15 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-15 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-15 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   11   | 2020-09-15 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   47   | 2020-09-15 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   4    | 2020-09-15 |
+| 152076 | ESCALA BRANCA HZ 72 PC INT |  Entrada   |  Externo   |  Impresso  |   1    | 2020-09-15 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   | Retrabalho |   43   | 2020-09-15 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   | Retrabalho |   66   | 2020-09-15 |
+| 151168 | PAINEL TRANSD. TRIPLO CORR | Transferên |  Imprimir  |  Impresso  |   19   | 2020-09-16 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  | Transferên |  Imprimir  |  Impresso  |   20   | 2020-09-16 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR | Transferên |  Imprimir  |  Impresso  |   10   | 2020-09-16 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   30   | 2020-09-16 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   6    | 2020-09-16 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   14   | 2020-09-16 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   35   | 2020-09-16 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-16 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   9    | 2020-09-16 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-16 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   9    | 2020-09-17 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Imprimir  |  300   | 2020-09-17 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Imprimir  |  Externo   |   4    | 2020-09-17 |
+| 152910 | ESCALA 96 HD (BOBINA IMPOR |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-17 |
+| 152019 |     ESCALA 96 BK -240º     |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-17 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   50   | 2020-09-17 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-17 |
+| 151168 | PAINEL TRANSD. TRIPLO CORR |   Saída    |  Impresso  |  Externo   |   9    | 2020-09-17 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   10   | 2020-09-17 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   3    | 2020-09-17 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-17 |
+| 152075 |        ESCALA 48 PC        | Transferên |  Imprimir  |  Impresso  |   10   | 2020-09-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   8    | 2020-09-18 |
+| 152019 |     ESCALA 96 BK -240º     |  Entrada   |  Externo   |  Imprimir  |   3    | 2020-09-18 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   45   | 2020-09-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   2    | 2020-09-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   13   | 2020-09-18 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-18 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-18 |
+| 169051 |    VISOR INJETADO DG-96    |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-18 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   5    | 2020-09-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   20   | 2020-09-21 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Imprimir  |  200   | 2020-09-21 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Imprimir  |  Externo   |   11   | 2020-09-21 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR | Transferên |  Imprimir  |  Impresso  |  200   | 2020-09-21 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Imprimir  |  Externo   |   16   | 2020-09-21 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   5    | 2020-09-21 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Imprimir  |   16   | 2020-09-21 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   16   | 2020-09-21 |
+| 152075 |        ESCALA 48 PC        |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-21 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |  300   | 2020-09-21 |
+| 167262 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-21 |
+| 169051 |    VISOR INJETADO DG-96    |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-21 |
+| 151084 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-21 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   13   | 2020-09-22 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   10   | 2020-09-22 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   39   | 2020-09-22 |
+| 152077 | ESCALA BRANCA HZ 96 PC INT |  Entrada   |  Externo   |  Impresso  |   10   | 2020-09-22 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   10   | 2020-09-22 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   33   | 2020-09-22 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-22 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   6    | 2020-09-22 |
+| 151168 | PAINEL TRANSD. TRIPLO CORR |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-22 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-22 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   16   | 2020-09-23 |
+| 151168 | PAINEL TRANSD. TRIPLO CORR |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-23 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   6    | 2020-09-23 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   10   | 2020-09-23 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   19   | 2020-09-23 |
+| 152077 | ESCALA BRANCA HZ 96 PC INT |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-23 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   10   | 2020-09-23 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-23 |
+| 152019 |     ESCALA 96 BK -240º     | Transferên |  Imprimir  |  Impresso  |   3    | 2020-09-24 |
+| 151168 | PAINEL TRANSD. TRIPLO CORR |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-24 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   9    | 2020-09-24 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-24 |
+| 152019 |     ESCALA 96 BK -240º     |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-24 |
+| 169053 |    VISOR INJETADO DG-48    |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-24 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   3    | 2020-09-24 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Imprimir  |   10   | 2020-09-25 |
+| 152019 |     ESCALA 96 BK -240º     |  Entrada   |  Externo   |  Imprimir  |   1    | 2020-09-25 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   26   | 2020-09-25 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-25 |
+| 152077 | ESCALA BRANCA HZ 96 PC INT |  Entrada   |  Externo   |  Impresso  |   1    | 2020-09-25 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   34   | 2020-09-25 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   12   | 2020-09-25 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Impresso  |   13   | 2020-09-25 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Impresso  |   2    | 2020-09-25 |
+| 167262 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Impresso  |   1    | 2020-09-25 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   10   | 2020-09-28 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   10   | 2020-09-28 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ | Transferên |  Imprimir  |  Impresso  |   20   | 2020-09-28 |
+| 169053 |    VISOR INJETADO DG-48    | Transferên |  Imprimir  |  Impresso  |   47   | 2020-09-28 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   30   | 2020-09-28 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-28 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   11   | 2020-09-28 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   14   | 2020-09-28 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   7    | 2020-09-28 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-28 |
+| 167267 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-28 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-28 |
+| 152037 |        ESCALA 96 SF        | Transferên |  Imprimir  |  Impresso  |   20   | 2020-09-29 |
+| 152037 |        ESCALA 96 SF        | Transferên |  Imprimir  | Retrabalho |   3    | 2020-09-29 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C | Transferên |  Imprimir  |  Impresso  |   30   | 2020-09-29 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   8    | 2020-09-29 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   17   | 2020-09-29 |
+| 152037 |        ESCALA 96 SF        |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-29 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C | Transferên |  Imprimir  |  Impresso  |   24   | 2020-09-30 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   54   | 2020-09-30 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-30 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   5    | 2020-09-30 |
+| 151090 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   4    | 2020-09-30 |
+| 151168 | PAINEL TRANSD. TRIPLO CORR |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-30 |
+| 169053 |    VISOR INJETADO DG-48    |   Saída    |  Impresso  |  Externo   |   40   | 2020-09-30 |
+| 169051 |    VISOR INJETADO DG-96    |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-30 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   2    | 2020-09-30 |
+| 167204 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-30 |
+| 167203 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   3    | 2020-09-30 |
+| 152037 |        ESCALA 96 SF        |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-30 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   1    | 2020-09-30 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   7    | 2020-09-30 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  | Retrabalho |   12   | 2020-10-01 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   48   | 2020-10-01 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   4    | 2020-10-01 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   11   | 2020-10-01 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   2    | 2020-10-01 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-01 |
+| 169053 |    VISOR INJETADO DG-48    |  Entrada   |  Externo   |  Imprimir  |   59   | 2020-10-02 |
+| 169053 |    VISOR INJETADO DG-48    | Transferên |  Imprimir  |  Impresso  |   20   | 2020-10-02 |
+| 167225 | PAINEL TRASEIRO B. OLHAL T | Transferên |  Imprimir  |  Impresso  |   8    | 2020-10-02 |
+| 167225 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Imprimir  |  Externo   |   1    | 2020-10-02 |
+| 167225 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-02 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   5    | 2020-10-02 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   9    | 2020-10-02 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   34   | 2020-10-02 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   20   | 2020-10-02 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   3    | 2020-10-02 |
+| 169053 |    VISOR INJETADO DG-48    |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-02 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   6    | 2020-10-02 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-02 |
+| 167225 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   2    | 2020-10-02 |
+| 169053 |    VISOR INJETADO DG-48    | Transferên |  Imprimir  |  Impresso  |   4    | 2020-10-05 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   15   | 2020-10-05 |
+| 151169 | PAINEL TRANSDUTOR TEMP./ R |  Entrada   |  Externo   |  Imprimir  |   50   | 2020-10-05 |
+| 151169 | PAINEL TRANSDUTOR TEMP./ R | Transferên |  Imprimir  |  Impresso  |   9    | 2020-10-05 |
+| 151169 | PAINEL TRANSDUTOR TEMP./ R | Transferên |  Impresso  | Retrabalho |   4    | 2020-10-05 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Impresso  |   8    | 2020-10-05 |
+| 152043 |        ESCALA 96 VD        |  Entrada   |  Externo   |  Imprimir  |  100   | 2020-10-05 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   4    | 2020-10-05 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   40   | 2020-10-05 |
+| 167225 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   5    | 2020-10-05 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-05 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   31   | 2020-10-05 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  | Transferên |  Imprimir  |  Impresso  |   56   | 2020-10-06 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |  Entrada   |  Externo   | Retrabalho |   6    | 2020-10-06 |
+| 152075 |        ESCALA 48 PC        |  Entrada   |  Externo   | Retrabalho |   6    | 2020-10-06 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |  Entrada   |  Externo   | Retrabalho |   7    | 2020-10-06 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |  Entrada   |  Externo   | Retrabalho |   7    | 2020-10-06 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   | Retrabalho |   37   | 2020-10-06 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   | Retrabalho |   40   | 2020-10-06 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Impresso  |   7    | 2020-10-06 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |  Entrada   |  Externo   |  Impresso  |   3    | 2020-10-06 |
+| 167267 | PAINEL TRASEIRO B. OLHAL T |  Entrada   |  Externo   |  Impresso  |   1    | 2020-10-06 |
+| 167225 | PAINEL TRASEIRO B. OLHAL T |  Entrada   |  Externo   |  Impresso  |   2    | 2020-10-06 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   21   | 2020-10-06 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   1    | 2020-10-06 |
+| 152077 | ESCALA BRANCA HZ 96 PC INT |  Entrada   |  Externo   |  Impresso  |   7    | 2020-10-06 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   36   | 2020-10-06 |
+| 169051 |    VISOR INJETADO DG-96    |   Saída    |  Impresso  |  Externo   |   8    | 2020-10-06 |
+| 169053 |    VISOR INJETADO DG-48    |   Saída    |  Impresso  |  Externo   |   3    | 2020-10-06 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   8    | 2020-10-06 |
+| 151169 | PAINEL TRANSDUTOR TEMP./ R |   Saída    |  Impresso  |  Externo   |   4    | 2020-10-06 |
+| 151097 | PAINEL FRONTAL - COMBINADO |   Saída    |  Impresso  |  Externo   |   4    | 2020-10-06 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   12   | 2020-10-06 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   4    | 2020-10-06 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   21   | 2020-10-06 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |  Entrada   |  Externo   |  Imprimir  |  200   | 2020-10-07 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  | Transferên |  Imprimir  |  Impresso  |   30   | 2020-10-07 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   12   | 2020-10-07 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   15   | 2020-10-07 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   14   | 2020-10-07 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  | Transferên |  Imprimir  |  Impresso  |   10   | 2020-10-08 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C | Transferên |  Imprimir  |  Impresso  |   30   | 2020-10-08 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   2    | 2020-10-08 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   20   | 2020-10-08 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   42   | 2020-10-08 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   2    | 2020-10-08 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   29   | 2020-10-08 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   24   | 2020-10-08 |
+| 169051 |    VISOR INJETADO DG-96    |   Saída    |  Impresso  |  Externo   |   2    | 2020-10-08 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   2    | 2020-10-08 |
+| 167182 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-08 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  | Retrabalho |   6    | 2020-10-09 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   45   | 2020-10-09 |
+| 167258 | PAINEL TRASEIRO B. OLHAL T |   Saída    |  Impresso  |  Externo   |   5    | 2020-10-09 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   6    | 2020-10-09 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   9    | 2020-10-09 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-09 |
+| 151210 | PAINEL FRONTAL TRANSDUTOR  |   Saída    |  Impresso  |  Externo   |   4    | 2020-10-09 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   31   | 2020-10-13 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   5    | 2020-10-13 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-13 |
+| 151084 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-13 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   13   | 2020-10-13 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   4    | 2020-10-13 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   12   | 2020-10-14 |
+| 152069 | ESCALA 96 PI EM BRANCO - F | Transferên |  Imprimir  |  Impresso  |   10   | 2020-10-14 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   7    | 2020-10-14 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-14 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |   Saída    |  Impresso  |  Externo   |   2    | 2020-10-14 |
+| 151119 | PAINEL FRONTAL TRANSDUT. C |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-14 |
+| 167184 | PAINEL TRASEIRO PADRÃO BOR |   Saída    |  Impresso  |  Externo   |   3    | 2020-10-14 |
+| 151090 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-14 |
+| 151084 | PAINEL FRONTAL POT. ATIVA/ |   Saída    |  Impresso  |  Externo   |   1    | 2020-10-14 |
+| 152068 | ESCALA 72 PI EM BRANCO - F |   Saída    |  Impresso  |  Externo   |   20   | 2020-10-14 |
+| 152069 | ESCALA 96 PI EM BRANCO - F |   Saída    |  Impresso  |  Externo   |   10   | 2020-10-14 |
+| 167203 | PAINEL TRASEIRO B. OLHAL T |  Entrada   |  Externo   |  Imprimir  |   25   | 2020-10-28 |
+| 167203 | PAINEL TRASEIRO B. OLHAL T | Transferên |  Imprimir  |  Impresso  |   3    | 2020-10-28 |
+| 151169 | PAINEL TRANSDUTOR TEMP./ R | Transferên |  Imprimir  |  Impresso  |   8    | 2020-10-29 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    | Retrabalho |  Externo   |   8    | 2021-05-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Imprimir  |   1    | 2021-05-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |   2    | 2021-05-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   | Retrabalho |   2    | 2021-05-18 |
+| 151118 | PAINEL FRONTAL TRANSD. DC/ |  Entrada   |  Externo   |  Impresso  |   0    | 2021-05-18 |
+| 151169 | PAINEL TRANSDUTOR TEMP./ R |  Entrada   |  Externo   |  Imprimir  |   2    | 2021-05-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Imprimir  |   10   | 2021-05-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   20   | 2021-05-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Imprimir  |   20   | 2021-05-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   20   | 2021-05-18 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. | Transferên |  Imprimir  |  Impresso  |   23   | 2021-08-12 |
+| 152071 | ESCALA 72 PC FM/BM INTERC. |  Entrada   |  Externo   |  Imprimir  |  100   | 2021-10-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |   Saída    |  Impresso  |  Externo   |   6    | 2021-10-18 |
+| 152072 | ESCALA 96 PC FM/BM INTERC. |  Entrada   |  Externo   |  Impresso  |  100   | 2021-11-10 |
