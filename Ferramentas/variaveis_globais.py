@@ -10,6 +10,7 @@ usu_id = 0
 usu_nome  = None
 usu_usuario = None
 usu_acesso = 0
+preferencia_img = ''
 
 cont = 0
 logado = False

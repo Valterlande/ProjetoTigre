@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk, messagebox
 from BLL import tela_bll, tip_material_bll, mod_produto_bll
 import random
-from GUI import frm_atu_tela
+from GUI_TKINTER import frm_atu_tela
 from Ferramentas import variaveis_globais
 
 

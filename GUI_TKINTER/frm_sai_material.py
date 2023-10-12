@@ -1,5 +1,5 @@
 from tkinter import messagebox
-from GUI import frm_base_mov
+from GUI_TKINTER import frm_base_mov
 from BLL import material_bll, mov_material_bll
 from DTO import material_dto, mov_material_dto
 from datetime import date

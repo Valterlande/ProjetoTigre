@@ -1,70 +1,53 @@
 from tkinter import messagebox
-from GUI import frm_base_mov
+from GUI_TKINTER import frm_base_mov
 from BLL import material_bll, mov_material_bll
 from DTO import material_dto, mov_material_dto
 from datetime import date
 from Ferramentas import variaveis_globais
 
 
-class FrmTransMaterial(frm_base_mov.FrmBaseMov):
-    def __init__(self, titulo='Transferência de Materiais'):
+class FrmEntMaterial(frm_base_mov.FrmBaseMov):
+    def __init__(self, titulo='Entrada de Materiais'):
         frm_base_mov.FrmBaseMov.__init__(self, titulo)
 
-        self.var_msg.set('Transferência')
-        self.lbl_msg['fg'] = '#008000'
+        self.var_msg.set('Entrada')
+        self.lbl_msg['fg'] = '#00008B'
 
-        tupla = ('Impresso', 'Imprimir')
-        self.cb_origem['values'] = tupla
-        self.cb_origem.current(1)
-        self.cb_origem.bind('<<ComboboxSelected>>', self.carregar_destino)
-
-        self.carregar_destino()
-
-        self.btn_confirmar['command']=self.confirmar
-
-    def carregar_destino(self, event=None):
-        if self.var_origem.get() == 'Impresso':
-            tupla = ('Retrabalho')
-        elif self.var_origem.get() == 'Imprimir':
-            tupla = ('Impresso', 'Retrabalho')
-
+        tupla = ('Impresso', 'Imprimir', 'Retrabalho')
         self.cb_destino['values'] = tupla
-        self.cb_destino.current(0)
+        self.cb_destino.current(1)
+        self.cb_origem['state'] = 'disabled'
+
+        self.btn_confirmar['command'] = self.confirmar
 
     def confirmar(self):
         # Objeto movimetação de material
         obj_mov = mov_material_dto.MovMaterialDto()
         obj_mov.material = int(self.var_id.get())
-        obj_mov.origem = self.var_origem.get()
+        obj_mov.origem = 'Externo'
         obj_mov.destino = self.var_destino.get()
-        obj_mov.tipo = 'Transferência'
+        obj_mov.tipo = 'Entrada'
         obj_mov.usuario = variaveis_globais.usu_id
         obj_mov.qtd = self.var_qtd.get()
         obj_mov.data = date.today()
 
         bll_mov = mov_material_bll.MovMaterialBll()
 
-        if self.var_origem.get() == 'Imprimir':
-            val = self.var_imprimir.get()
-        else:
-            val = self.var_impresso.get()
-
-        validar = bll_mov.validar_campos(obj_mov, val)
+        validar = bll_mov.validar_campos(obj_mov)
         if validar != 'ok':
             messagebox.showwarning('Aviso', str(validar), parent=self)
             return
 
         res = messagebox.askquestion('Confirmar', 'Deseja confirmar esta movimentação?', parent=self)
         if res == 'yes':
-            if self.var_origem.get() == 'Imprimir':
-                self.var_imprimir.set((self.var_imprimir.get() - self.var_qtd.get()))
-                if self.var_destino.get() == 'Impresso':
-                    self.var_impresso.set((self.var_impresso.get() + self.var_qtd.get()))
-                else:
-                    self.var_retrabalho.set((self.var_retrabalho.get() + self.var_qtd.get()))
+            if self.var_destino.get() == 'Imprimir':
+                self.var_imprimir.set((self.var_imprimir.get() + self.var_qtd.get()))
+            elif self.var_destino.get() == 'Impresso':
+                self.var_impresso.set((self.var_impresso.get() + self.var_qtd.get()))
             else:
-                self.var_impresso.set((self.var_impresso.get() - self.var_qtd.get()))
                 self.var_retrabalho.set((self.var_retrabalho.get() + self.var_qtd.get()))
+
+            self.var_saldo.set((self.var_saldo.get() + self.var_qtd.get()))
 
             # Objeto material
             obj_mat = material_dto.MaterialDto()

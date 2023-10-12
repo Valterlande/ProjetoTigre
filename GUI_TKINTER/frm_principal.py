@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox, ttk
-from GUI import frm_cad_tip_material, frm_cad_mod_produto, frm_cad_material, frm_cad_tela, frm_cad_kit, frm_ent_material, frm_sai_material, \
+from GUI_TKINTER import frm_cad_tip_material, frm_cad_mod_produto, frm_cad_material, frm_cad_tela, frm_cad_kit, frm_ent_material, frm_sai_material, \
     frm_trans_material, frm_con_tela, frm_con_material, frm_con_kit, frm_rel_material, frm_rel_kit, frm_rel_tela, frm_rel_mov_material, \
         frm_logar, frm_cad_usuario, frm_con_ficha_tecnica, frm_ativacao, frm_sobre, frm_aut_preferencia
 from Ferramentas import variaveis_globais

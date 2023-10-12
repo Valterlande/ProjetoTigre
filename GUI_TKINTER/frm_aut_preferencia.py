@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 from Ferramentas import variaveis_globais, funcoes
-from GUI import frm_preferencia
+from GUI_TKINTER import frm_preferencia
 
 
 class FrmAutPreferencia(Toplevel):

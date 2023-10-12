@@ -1,5 +1,5 @@
 from tkinter import *
-from GUI import frm_principal
+from GUI_TKINTER import frm_principal
 from Ferramentas import variaveis_globais
 
 class SplashScreen(Frame):
