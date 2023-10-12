@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox, ttk
-from BLL import tip_material_bll, mod_produto_bll, tela_bll
+from BLL import tip_material_bll, mod_produto_bll
 from DTO import tela_dto
 import random
 
